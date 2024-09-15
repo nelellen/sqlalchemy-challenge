@@ -1,9 +1,11 @@
 # sqlalchemy-challenge
 
-Analyzing weather data in Honolulu for my Vacation!
+I am analyzing weather data in Honolulu for my Vacation!
 
 Overview of the Analysis
 
-The purpose of this Analysis is to help with planning a trip to Hawaii. I will analyze the climate in the area.
+This analysis aims to help you plan a trip to Hawaii. I will analyze the climate in the area.
 
-A Flask API will also be generated based on the queries develeoped in the Jyupter file.
+A Flask API will also be generated based on the queries developed in the Jyupter file.
+
+reference: https://github.com/monica-t-james/Homework9-HawaiiClimateAnalysis/blob/master/climate_app.py
